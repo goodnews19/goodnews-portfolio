@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goodnews-portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/goodnews-portfolio/static/js/main.cc0c1f1a.js",
+    "static/js/453.e7f0ad66.chunk.js": "/goodnews-portfolio/static/js/453.e7f0ad66.chunk.js",
+    "index.html": "/goodnews-portfolio/index.html",
+    "main.f855e6bc.css.map": "/goodnews-portfolio/static/css/main.f855e6bc.css.map",
+    "main.cc0c1f1a.js.map": "/goodnews-portfolio/static/js/main.cc0c1f1a.js.map",
+    "453.e7f0ad66.chunk.js.map": "/goodnews-portfolio/static/js/453.e7f0ad66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.cc0c1f1a.js"
+  ]
+}
