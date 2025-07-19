@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/goodnews-portfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/goodnews-portfolio/static/js/main.ce3b4c08.js",
+    "main.css": "/goodnews-portfolio/static/css/main.ea72ba13.css",
+    "main.js": "/goodnews-portfolio/static/js/main.948514b2.js",
     "static/js/453.e7f0ad66.chunk.js": "/goodnews-portfolio/static/js/453.e7f0ad66.chunk.js",
     "index.html": "/goodnews-portfolio/index.html",
-    "main.e6c13ad2.css.map": "/goodnews-portfolio/static/css/main.e6c13ad2.css.map",
-    "main.ce3b4c08.js.map": "/goodnews-portfolio/static/js/main.ce3b4c08.js.map",
+    "main.ea72ba13.css.map": "/goodnews-portfolio/static/css/main.ea72ba13.css.map",
+    "main.948514b2.js.map": "/goodnews-portfolio/static/js/main.948514b2.js.map",
     "453.e7f0ad66.chunk.js.map": "/goodnews-portfolio/static/js/453.e7f0ad66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.ce3b4c08.js"
+    "static/css/main.ea72ba13.css",
+    "static/js/main.948514b2.js"
   ]
 }
